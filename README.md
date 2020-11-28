@@ -1,4 +1,4 @@
-# The Text Files Indexer  
+# The Text File Indexer  
 ## Description  
 This program filters the text files in a given folder directory
 and indexes them enabling the user to show the already indexed files and retrieve the files containing a specific word i.e. the user can search for a specific word easily.
